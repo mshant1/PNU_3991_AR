@@ -13,12 +13,12 @@
 ## ارزیابی ها
 
 ### عمومی
-- [ارزیابی رزومه و انگیزه نامه]()
-- [خلاصه ارزیابی بخش عمومی]()
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/mshant1/PNU_3991_AR/blob/master/Assessment/General/MS_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/mshant1/PNU_3991_AR/blob/master/Assessment/General/MS_GeneralSection_CheckList_AR_3991.pdf)
 
 
 ### اختصاصی
-- [خلاصه ارزیابی درس_روش پژوهش و ارائه]()
+- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/mshant1/PNU_3991_AR/blob/master/Assessment/ResearchAndPresentationMethods/MS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
 
 ## درس‌ها
